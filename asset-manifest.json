@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kavins-12/TodoList/static/css/main.bdf9d97b.chunk.css",
+    "main.js": "/kavins-12/TodoList/static/js/main.60d2d029.chunk.js",
+    "main.js.map": "/kavins-12/TodoList/static/js/main.60d2d029.chunk.js.map",
+    "runtime-main.js": "/kavins-12/TodoList/static/js/runtime-main.d6e74c5c.js",
+    "runtime-main.js.map": "/kavins-12/TodoList/static/js/runtime-main.d6e74c5c.js.map",
+    "static/js/2.264d8171.chunk.js": "/kavins-12/TodoList/static/js/2.264d8171.chunk.js",
+    "static/js/2.264d8171.chunk.js.map": "/kavins-12/TodoList/static/js/2.264d8171.chunk.js.map",
+    "index.html": "/kavins-12/TodoList/index.html",
+    "precache-manifest.4a563a3b708c99e9f0e5ada70cdabb45.js": "/kavins-12/TodoList/precache-manifest.4a563a3b708c99e9f0e5ada70cdabb45.js",
+    "service-worker.js": "/kavins-12/TodoList/service-worker.js",
+    "static/css/main.bdf9d97b.chunk.css.map": "/kavins-12/TodoList/static/css/main.bdf9d97b.chunk.css.map",
+    "static/js/2.264d8171.chunk.js.LICENSE.txt": "/kavins-12/TodoList/static/js/2.264d8171.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6e74c5c.js",
+    "static/js/2.264d8171.chunk.js",
+    "static/css/main.bdf9d97b.chunk.css",
+    "static/js/main.60d2d029.chunk.js"
+  ]
+}
